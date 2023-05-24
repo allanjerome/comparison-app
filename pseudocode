@@ -37,7 +37,7 @@ Pseudocode:
 
 How to run the code :
 
-1. open terminal and trype "git clone https://github.com/allanjerome/comparison-app.git"
+1. open terminal and type "git clone https://github.com/allanjerome/comparison-app.git"
 2. cd comparison-app
 3. npm install
 4. npm start
